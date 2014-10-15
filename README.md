@@ -26,6 +26,7 @@ The setup_database.php file will create a database named 'sambhav' and then crea
 
 
 ROUTES
+--------------
 Following are the routes defined for the api and their description
 
 
@@ -49,6 +50,7 @@ Item
 
 
 SAMPLE REQUESTS
+-------------------
 Following are the routes defined for the api and their description
 
 
@@ -66,6 +68,7 @@ Important User and Item request samples!
 
 
 ASSUMPTIONS
+---------------
 Following are the assumptions made while developing this api.
 
 No framework was used while building this API
@@ -82,6 +85,7 @@ The unique ids of the items are assumed to be numeric (AUTO-INCREMENT)
 
 
 REFERENCES
+----------------
 Since this is my first php project, I referred to a lot of places. I am mentioning a few below.
 
 PHP Documentation: http://php.net/manual/en/
