@@ -9,6 +9,8 @@ The API is written in PHP with MySQL as the datastore.
 
 
 STEPS FOR SETTING IT UP
+----------------------------
+
 Server
 I used apache while development. But this should work on any server with supports .htaccess file configuration, since I use it for routing.
 
