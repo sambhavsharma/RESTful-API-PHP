@@ -2,8 +2,8 @@
 	
 	require 'mysql.php';
 
-	$username = "sambhav";
-	$password = "sambhav";
+	$username = "{username}";
+	$password = "{password}";
 	$hostname = "localhost"; 
 	$db = "sambhav";
 
