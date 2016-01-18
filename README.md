@@ -1,7 +1,7 @@
 RESTful-API-PHP
 ===============
 
-NOTE: This is not a good project to learn hwo to make REST APIs in PHP. This has some major desgin flaws, which I will e working on. For example this usus sessions to laogin to the API, but that would only work with browsers, we must use HTTP AUTH or tokens like JWTs. Implement OAuth maybe. Also all the requests hit the database. There is no cacheing. We can add a layer of cacheing (Redis, Varnish etc). There are some other design flaws as well. I will be fixing them one by one as and when I get time.
+NOTE: This is not a good project to learn how to make REST APIs in PHP. This has some major desgin flaws, which I will e working on. For example this usus sessions to laogin to the API, but that would only work with browsers, we must use HTTP AUTH or tokens like JWTs. Implement OAuth maybe. Also all the requests hit the database. There is no cacheing. We can add a layer of cacheing (Redis, Varnish etc). There are some other design flaws as well. I will be fixing them one by one as and when I get time.
 
 A basic RESTful api and authentication in PHP for an online store
 
